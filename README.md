@@ -1,47 +1,47 @@
-# Wizard-Ser
+# 𝐼𝓉𝟧 𝑀𝟥 𝑀𝟨_𝟤
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/F5zhbpM.jpg" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/17_2_m3_m6_2"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/50378165999"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## <!-- Typing SVG -->
 <p align="center">
-    <a href="https://git.io/J0hKr">
+    <a href="https://github.com/Fadilzain">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Wizard+Ser+Is+A+Modified+Version+Of;Eva+By+SudoAnirudh;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=ᴾᴮᴬ+ᴮᵒᵀ+𝙸𝚜+A+𝙼𝙾𝚍𝚒𝚏𝚒𝚎𝚍+𝚅𝚎𝚛𝚜𝚒𝚘𝚗+𝙾𝚏;Wizard+Ser+By+Ajmal;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
             alt="Typing SVG"
         />
     </a>
 </p>
 
 ## ```HOW TO DEPLOY```
-`WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
+`Wₐₜcₕ ₕₒw ₜₒ Dₑₚₗₒy ₚBₐ Bₒₜ Wᵢₜₕₒᵤₜ ₐₙy ₑᵣᵣₒᵣ'ₛ. Wₐₜcₕ Fᵤₗₗ ᵥᵢdₑₒ ᵢₙ ₚBₐ ₘₒDₛ`
 
-[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
+[`Cₗᵢcₖ ₕₑᵣₑ Fₒᵣ Wₐₜcₕ ᵥᵢdₑₒ`](https://youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ)
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/ifBH7gm.jpeg" />
 </p>
 
 -------
 
 
-## `SCAN QR`
+## `ˢᶜᵃⁿ Qᴿ`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/PBA-BoT-Qr-test)
 
-## `DEPLOY`
+## `ᴰᴱᴾᴸᴼʸ`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
 
 Test
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Wizard-Ser) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/I4MBetAZ/PBA-BoT-V1) 
 ----------
 
 
