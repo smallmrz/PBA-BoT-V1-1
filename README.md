@@ -32,11 +32,11 @@
 -------
 
 
-## `ˢᶜᵃⁿ Qᴿ`
+## `SCAN QR`
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/PBA-BoT-Qr-test)
 
-## `ᴰᴱᴾᴸᴼʸ`
+## `DEPLOY`
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
 
