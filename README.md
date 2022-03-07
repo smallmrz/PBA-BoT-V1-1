@@ -34,7 +34,7 @@
 
 ## `ˢᶜᵃⁿ Qᴿ`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AjmalAchu123/Wizard-Ser-Qr-test)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/Wizard-Ser-Qr-test)
 
 ## `ᴰᴱᴾᴸᴼʸ`
 
