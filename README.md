@@ -26,7 +26,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/ifBH7gm.jpeg" />
+  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/k5sWcq0.jpg" />
 </p>
 
 -------
