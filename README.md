@@ -75,12 +75,8 @@ Click WA logo to Join Support Group 👇
 
 ## 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨
   <div align="center">
-  
-  [![Alien-alfa](blob:https://telegra.ph/file/6e37723186653a997acd4.jpg)](https://github.com/alien-alfa)[`Alien-alfa`](https://github.com/alien-alfa)
-----|
-   `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![Alien-alfa](https://telegra.ph/file/6e37723186653a997acd4.jpg)](https://github.com/alien-alfa[`Alien-alfa`](https://github.com/alien-alfa)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
