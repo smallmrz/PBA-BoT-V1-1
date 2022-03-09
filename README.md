@@ -26,7 +26,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/k5sWcq0.jpg" />
+  <a href="https://www.youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ/videos"><img src="https://i.imgur.com/k5sWcq0.jpg" />
 </p>
 
 -------
@@ -62,21 +62,21 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu/Wizrad-Ser"><img src="https://i.imgur.com/X8SNXXz.jpeg" />
+  <a href="https://github.com/I4MBetAZ/PBA-BoT-V1"><img src="https://i.imgur.com/X8SNXXz.jpeg" />
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IpM871JDwkSLLjenjV1YD4)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/D3fhKLgNybo7RP4TEKgrFc)
   <div align="center">
 
 
-## Developers
+## 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![SudoAnirudh](blob:https://web.whatsapp.com/df376580-5199-4bff-abbe-9e9b5f55db42)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
 ----|
    `Base, Bug Fixes, Modules`
 
