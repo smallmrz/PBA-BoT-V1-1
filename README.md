@@ -30,6 +30,24 @@
 </p>
 
 -------
+## HOW TO SETUP
+
+
+  ### 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐏𝐁𝐀-𝐁𝐨𝐓-𝐕𝟏, 𝐟𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐈𝐒 𝐒𝐓𝐄𝐏𝐒
+  
+1. ᴄʀᴇᴀᴛᴇ ᴀ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ ᴄʟɪᴄᴋ [GIT HUB SIGN UP](https://github.com/signup/)
+
+2. Ｏｐｅｎ ｔｈｅ ＷｈａｔｓＡｐｐ ａｃｃｏｕｎｔ ｗｈｅｒｅ ｙｏｕ ｗａｎｔ ｔｏ ｃｒｅａｔｅ ｔｈｅ ｂｏｔ ａｎｄ ｇｏ ｉｎｔｏ ｔｈｅ ｌｉｎｋ ｄｅｖｉｃｅ ａｎｄ ＳＣＡＮ ｔｈｅ ＱＲ ｃｏｄｅ Ｃｌｉｃｋ [ＳＣＡＮ]
+  ## `ˢᶜᵃⁿ Qᴿ`
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/pbabot?v=1)
+ 
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+
+4. You will have to fork this git to deploy via Heroku.
+  click to fork the git into your account
+ Click [FORK](https://github.com/Chunkindepadayali/LIZA-MWOL/fork)
+
 
 
 ## `ˢᶜᵃⁿ Qᴿ`
