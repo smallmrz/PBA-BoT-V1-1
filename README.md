@@ -118,6 +118,8 @@ Click WA logo to Join Support Group 👇
  <a href="https://github.com/CRAZY-PREDATOR"><img src="https://i.imgur.com/39JUPeF.jpg" />
              
  <a href="https://www.youtube.com/channel/UCuCOXMDn89w_qK720mFZteA"><img src="https://i.imgur.com/Y4Grt4u.jpg" />
+   
+   <a href="http://www.instagram.com/jacksparrow_ofc"><img src="https://i.imgur.com/48ULZXZ.jpg" />
    </P>
    
    
