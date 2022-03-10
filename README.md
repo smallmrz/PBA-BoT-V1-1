@@ -78,15 +78,13 @@ Click WA logo to Join Support Group 👇
   <a href="https://github.com/alien-alfa"><img src="https://i.imgur.com/GgrKido.jpg" />
 </p>
     Bug Fixes, Modules, Commits
-   
+ 
+     <p align="center">
     
-    
-    
-    
-    <a href="https://github.com/I4MBetAZ"><img src="https://i.imgur.com/DFnPlsK.jpg" />
+     <a href="https://github.com/I4MBetAZ"><img src="https://i.imgur.com/DFnPlsK.jpg" />
     
     RE-DEVELOPER,BUG FIXES
-    
+       </P>
     
  𝒫𝐵𝒜 𝑀𝒪𝒟𝓈 𝒯𝐸𝒜𝑀
    
