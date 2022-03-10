@@ -79,6 +79,8 @@ Click WA logo to Join Support Group 👇
 </p>
     Bug Fixes, Modules, Commits
     
-    <a href="https://github.com/alien-alfa"><img src="https://avatars.githubusercontent.com/u/73210978?v=4" />
-    
+     <p align="center">
+  <a href="https://github.com/alien-alfa"><img src="https://avatars.githubusercontent.com/u/73210978?v=4" />
+</p>
+   
   </div
