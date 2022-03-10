@@ -42,23 +42,17 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/pbabot?v=1)
  
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+3. ＣＲＥＡＴＥ ＡＣＣＯＵＮＴ ＩＮ ＨＥＲＯＫＵ [Heroku](https://signup.heroku.com/), 
 
-4. You will have to fork this git to deploy via Heroku.
-  click to fork the git into your account
- Click [FORK](https://github.com/Chunkindepadayali/LIZA-MWOL/fork)
-
-
-
-## `ˢᶜᵃⁿ Qᴿ`
-
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/pbabot?v=1)
+4.ʏᴏᴜ ᴡɪʟʟ ʜᴀᴠᴇ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ɢɪᴛ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴠɪᴀ ʜᴇʀᴏᴋᴜ.
+  ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ ᴛʜᴇ ɢɪᴛ ɪɴᴛᴏ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ
+ Click [FORK](https://github.com/I4MBetAZ/PBA-BoT-V1/fork)
+  
+5. ᵀᵁᴿᴺ ᴼᶠᶠ ᵂᴱᴮ ᴺᴼᴰᴱ ˢᴱᴿⱽᴱᴿ ᴬᴺᴰ ᴱᴺᴬᴮᴸᴱ ᵂᴼᴿᴷᴱᴿ ᴺᴾᴹ ˢᵀᴬᴿᵀ
 
 ## `ᴰᴱᴾᴸᴼʸ`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app) 
-
-Test
+PBA BoT PrIVet Deploy Don`t Click
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/I4MBetAZ/PBA-BoT-V1) 
 ----------
 
@@ -76,8 +70,8 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
 
 ## `CHANGE DYNO`
-
-`TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
+  
+  'ᵀᵁᴿᴺ ᴼᶠᶠ ᵂᴱᴮ ᴺᴼᴰᴱ ˢᴱᴿⱽᴱᴿ ᴬᴺᴰ ᴱᴺᴬᴮᴸᴱ ᵂᴼᴿᴷᴱᴿ ᴺᴾᴹ ˢᵀᴬᴿᵀ'
 
 <p align="center">
   <a href="https://github.com/I4MBetAZ/PBA-BoT-V1"><img src="https://i.imgur.com/X8SNXXz.jpeg" />
