@@ -87,6 +87,12 @@ Click WA logo to Join Support Group 👇
     
     
     RE-DEVELOPER,BUG FIXES
+    
+    
+    ᴾᴮᴬ ᴹᴼᴰˢ ᵀᴱᴬᴹ
+    
+    
+   <a href="https://github.com/CRAZY-PREDATOR"><img src="https://i.imgur.com/6D6AkDx.jpg" />
 
    
   </div
