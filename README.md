@@ -96,9 +96,8 @@ Click WA logo to Join Support Group 👇
      </P>
     
       <p align="center">
-        D64G0
-
-        <a href="https://youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ"><img src="https://i.imgur.com/HwfYo9C.jpg" />
+       <a href="https://youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ"><img src="https://i.imgur.com/HwfYo9C.jpg" />
+              D64G0
 
    
   </div
