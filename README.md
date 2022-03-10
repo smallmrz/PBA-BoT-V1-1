@@ -42,7 +42,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/pbabot?v=1)
  
-3. ＣＲＥＡＴＥ ＡＣＣＯＵＮＴ ＩＮ ＨＥＲＯＫＵ [Heroku](https://signup.heroku.com/), 
+3. ＣＲＥＡＴＥ ＡＣＣＯＵＮＴ ＩＮ ＨＥＲＯＫＵ [Heroku](https://signup.heroku.com/)
 
 4.ʏᴏᴜ ᴡɪʟʟ ʜᴀᴠᴇ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ɢɪᴛ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴠɪᴀ ʜᴇʀᴏᴋᴜ.
   ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ ᴛʜᴇ ɢɪᴛ ɪɴᴛᴏ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ
