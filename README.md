@@ -84,8 +84,8 @@ Click WA logo to Join Support Group 👇
  𝒫𝐵𝒜 𝑀𝒪𝒟𝓈 𝒯𝐸𝒜𝑀
    
     
-       <p align="center">
+      
   <a href="https://github.com/CRAZY-PREDATOR"><img src="https://i.imgur.com/B9etb0z.jpg" />
-</p>
+
    
   </div
