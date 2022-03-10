@@ -84,7 +84,7 @@ Click WA logo to Join Support Group 👇
 <br>
   [![join](https://i.imgur.com/86GzhOq.jpg)](https://chat.whatsapp.com/CD49cbo7JcfAUuHgleJAQl)
   
-   [![join](https://i.imgur.com/86GzhOq.jpg)](https://chat.whatsapp.com/CD49cbo7JcfAUuHgleJAQl)
+   [![join](https://i.imgur.com/R7L8wt9.jpg)](https://chat.whatsapp.com/D3fhKLgNybo7RP4TEKgrFc)
   <div align="center">
 
 
