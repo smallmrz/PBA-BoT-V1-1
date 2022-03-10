@@ -11,7 +11,7 @@ const defaultMenu = {
      ✪〔 %me 〕✪
 🔸Hai, %name!
 
-🔸 Github: [ RELEASING SOON ]
+🔸 Github: [ https://github.com/I4MBetAZ/PBA-BoT-V1 ]
 
 
      〘 *ᴾᴮᴬ ᴮᵒᵀ* 〙
