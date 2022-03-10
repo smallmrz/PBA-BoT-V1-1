@@ -82,7 +82,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/D3fhKLgNybo7RP4TEKgrFc)
+  [![join](https://i.imgur.com/86GzhOq.jpg)](https://chat.whatsapp.com/D3fhKLgNybo7RP4TEKgrFc)
   <div align="center">
 
 
