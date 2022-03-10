@@ -76,9 +76,9 @@ Click WA logo to Join Support Group 👇
 ## 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨
   <p align="center">
   <a href="https://github.com/alien-alfa"><img src="https://i.imgur.com/TTc6d2r.jpg" />
-     Bug Fixes, Modules, Commits
+     
 </p>
-    Bug Fixes, Modules, Commits
+   ## Bug Fixes, Modules, Commits
  
       
   <a href="https://github.com/I4MBetAZ"><img src="https://i.imgur.com/DFnPlsK.jpg" />
