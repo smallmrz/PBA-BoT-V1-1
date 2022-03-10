@@ -79,18 +79,11 @@ Click WA logo to Join Support Group 👇
 </p>
     Bug Fixes, Modules, Commits
  
-     <p align="center">
+      
+  <a href="https://github.com/I4MBetAZ"><img src="https://i.imgur.com/DFnPlsK.jpg" />
     
-     <a href="https://github.com/I4MBetAZ"><img src="https://i.imgur.com/DFnPlsK.jpg" />
     
     RE-DEVELOPER,BUG FIXES
-       </P>
-    
- 𝒫𝐵𝒜 𝑀𝒪𝒟𝓈 𝒯𝐸𝒜𝑀
-   
-    
-      
-  <a href="https://github.com/CRAZY-PREDATOR"><img src="https://i.imgur.com/B9etb0z.jpg" />
 
    
   </div
