@@ -12,7 +12,7 @@
 <p align="center">
     <a href="https://github.com/Fadilzain">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=PBA+BoT+Is+A+Modified+Version+of;Wizard+Ser+By+Ajmal;Do+Support+PBA+MoDs+Thanks+To;Alien-Alfa+,PBA+MoDs+Team."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=PBA+BoT+Is+A+Modified+Version+of;Wizard+Ser+By+Ajmal;Do+Support+PBA+MoDs;Thanks+To;Alien-Alfa+,PBA+MoDs+Team."
             alt="Typing SVG"
         />
     </a>
