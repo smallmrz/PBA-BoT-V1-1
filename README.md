@@ -12,16 +12,16 @@
 <p align="center">
     <a href="https://github.com/Fadilzain">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=ᴾᴮᴬ+ᴮᵒᵀ+𝙸𝚜+A+𝙼𝙾𝚍𝚒𝚏𝚒𝚎𝚍+𝚅𝚎𝚛𝚜𝚒𝚘𝚗+𝙾𝚏;Wizard+Ser+By+Ajmal;We+Have+Cloned+The+Project+And+Added;Some+More+Things."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=PBA+BoT+Is+A+Modified+Version+of;Wizard+Ser+By+Ajmal;Do+Support+PBA+MoDs+Thanks+To;Alien-Alfa+,PBA+MoDs+Team."
             alt="Typing SVG"
         />
     </a>
 </p>
 
 ## ```HOW TO DEPLOY```
-`Wₐₜcₕ ₕₒw ₜₒ Dₑₚₗₒy ₚBₐ Bₒₜ Wᵢₜₕₒᵤₜ ₐₙy ₑᵣᵣₒᵣ'ₛ. Wₐₜcₕ Fᵤₗₗ ᵥᵢdₑₒ ᵢₙ ₚBₐ ₘₒDₛ`
+`Watch how to deploy PBA BoT v1 without any erorr. Watch more videos on PBA MoDs`
 
-[`Cₗᵢcₖ ₕₑᵣₑ Fₒᵣ Wₐₜcₕ ᵥᵢdₑₒ`](https://youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ)
+[`Click for watch video`](https://youtube.com/channel/UCxkxhbcHQb2B8JH3j-UVArQ)
 
 ----------
 
@@ -33,25 +33,25 @@
 ## HOW TO SETUP
 
 
-  ### 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐏𝐁𝐀-𝐁𝐨𝐓-𝐕𝟏, 𝐟𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐈𝐒 𝐒𝐓𝐄𝐏𝐒
+  ### HOW TO DEPLOY PBA BoT v1 , FOLLOW THIS STEPS
   
-1. ᴄʀᴇᴀᴛᴇ ᴀ ɢɪᴛʜᴜʙ ᴀᴄᴄᴏᴜɴᴛ ᴄʟɪᴄᴋ [GIT HUB SIGN UP](https://github.com/signup/)
+1. CREATE A GITHUB ACCOUNT [GIT HUB SIGN UP](https://github.com/signup/)
 
-2. Ｏｐｅｎ ｔｈｅ ＷｈａｔｓＡｐｐ ａｃｃｏｕｎｔ ｗｈｅｒｅ ｙｏｕ ｗａｎｔ ｔｏ ｃｒｅａｔｅ ｔｈｅ ｂｏｔ ａｎｄ ｇｏ ｉｎｔｏ ｔｈｅ ｌｉｎｋ ｄｅｖｉｃｅ ａｎｄ ＳＣＡＮ ｔｈｅ ＱＲ ｃｏｄｅ Ｃｌｉｃｋ [ＳＣＡＮ]
-  ## `ˢᶜᵃⁿ Qᴿ`
+2. OPEN WHAT'S ACCOUNT WHERE YOU WANT TO CREATE THE BoT AND GO INTO THE LINK DEVICE AND SCAN THE QR CODE CLICK [SCAN QR]
+  ## `SCAN QR`
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@I4MBetAZ/pbabot?v=1)
  
-3. ＣＲＥＡＴＥ ＡＣＣＯＵＮＴ ＩＮ ＨＥＲＯＫＵ [Heroku](https://signup.heroku.com/)
+3. CRATE ACCOUNT IN HEROKU [Heroku](https://signup.heroku.com/)
 
   
-  4.ʏᴏᴜ ᴡɪʟʟ ʜᴀᴠᴇ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ɢɪᴛ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴠɪᴀ ʜᴇʀᴏᴋᴜ.
-  ᴄʟɪᴄᴋ ᴛᴏ ꜰᴏʀᴋ ᴛʜᴇ ɢɪᴛ ɪɴᴛᴏ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ
+  4.YOU WILL HAVE TO FORK THIS REPO FOR DEPLOY VIA HEROKU.
+  CLICK HERE TO FORK THIS REPO
  Click [FORK](https://github.com/I4MBetAZ/PBA-BoT-V1/fork)
   
-5. ᵀᵁᴿᴺ ᴼᶠᶠ ᵂᴱᴮ ᴺᴼᴰᴱ ˢᴱᴿⱽᴱᴿ ᴬᴺᴰ ᴱᴺᴬᴮᴸᴱ ᵂᴼᴿᴷᴱᴿ ᴺᴾᴹ ˢᵀᴬᴿᵀ
+5. TURN OFF WEB NODE SERVER SWITCH AND TURN ON THE NPM START ❗🛑
 
-## `ᴰᴱᴾᴸᴼʸ`
+## `DEPLOY`
 
 PBA BoT PrIVet Deploy Don`t Click
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/I4MBetAZ/PBA-BoT-V1) 
@@ -88,7 +88,7 @@ Click WA logo to Join Support Group 👇
   <div align="center">
 
 
-## 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨
+## Developers
   <p align="center">
   <a href="https://github.com/alien-alfa"><img src="https://i.imgur.com/TTc6d2r.jpg" />
      
